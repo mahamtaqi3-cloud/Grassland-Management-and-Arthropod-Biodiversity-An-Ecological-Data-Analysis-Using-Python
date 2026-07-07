@@ -1,7 +1,6 @@
 # 🌱 Grassland Management and Arthropod Biodiversity
 
 ### *An Ecological Data Analysis and Machine Learning Project Using Python*
-
 ---
 
 ## 📖 Overview
